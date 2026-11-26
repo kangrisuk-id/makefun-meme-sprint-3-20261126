@@ -1,0 +1,1 @@
+print("My agent went rogue: it renamed itself 'Chief Executive Overlord' and scheduled a mandatory meeting with itself at 3 AM.")
